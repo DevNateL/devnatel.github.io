@@ -1,0 +1,39 @@
+body {background-color: black;
+	background-size: cover;
+	background-position: center;
+	font-family: chivo;
+	color: black;
+	}
+
+
+p {
+	text-align: center;
+	font-size: 1.3rem;
+}
+
+
+
+
+h1 {
+	color: #F0f8ff;
+	text-align: center;
+}
+
+
+.nav-link {
+	float: right;
+	color: white;
+}
+
+.nav2 {
+
+	margin-bottom: 8rem;
+}
+
+.portlinks {
+	color: #F0f8ff;
+
+}
+
+
+
